@@ -245,10 +245,12 @@ You are free to use, modify and showcase it with proper credit.
 
 ---
 
-## **📧 Contact**
+## 👩‍💻 Author
 
-**Tanisha Chauhan**
-B.Tech CSE – VIT Vellore
-Frontend Developer | React.js | UI Designer
+* 💼 [Tanisha Chauhan](https://github.com/tanisha222)
+* ✉️ [LinkedIn Profile](https://www.linkedin.com/in/tanisha-chauhan-9227671b0/)
 
 ---
+
+
+
