@@ -1,7 +1,3 @@
-Here is the **full, clean, properly-formatted README.md** you can **copy-paste directly** into your project.
-
----
-
 # **README — Hitwicket Cricket Player Profile (Gamified ESPN Redesign)**
 
 **Author:** *Tanisha Chauhan (22BCE3751)*
@@ -256,10 +252,3 @@ B.Tech CSE – VIT Vellore
 Frontend Developer | React.js | UI Designer
 
 ---
-
-If you want, I can also generate:
-✅ A **PDF** version of this README
-✅ A **portfolio case study** page
-✅ A **shorter version** for GitHub showcase
-
-Just tell me!
