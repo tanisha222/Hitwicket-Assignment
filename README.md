@@ -6,6 +6,10 @@
 **Project:** Hitwicket Assignment — Player Profile Dashboard
 
 ---
+Deployment Link (Vercel)
+Live Demo: https://hitwicket-assignment-sigma.vercel.app/
+
+---
 
 ## **📌 Project Overview**
 
